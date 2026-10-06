@@ -1,5 +1,5 @@
 # 📓 Bitácora del taller
 
-Una línea por persona: `- [nombre] — [fecha] — [una palabra de cómo te sientes]`
+Miranda Moreno - Aprendí a usar ramas y a cerrar issues con Closes #N.`
 
-- José Carlos — 29-sep-2026 — listo
+- Miranda Moreno - 05/10/26 — listo
